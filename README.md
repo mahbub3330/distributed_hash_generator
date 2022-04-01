@@ -14,9 +14,9 @@ For instance you would like to run 2 client. open 2 terminals and run command * 
 
 ## Output
 * **Number of Client = 1**  - [Client1.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client1.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output1)
-* **Number of Client = 2**  - [Client1.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client2.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output2)
-* **Number of Client = 4**  - [Client1.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client4.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output4)
-* **Number of Client = 8**  - [Client1.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client8.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output8)
+* **Number of Client = 2**  - [Client2.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client2.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output2)
+* **Number of Client = 4**  - [Client4.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client4.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output4)
+* **Number of Client = 8**  - [Client8.txt](https://github.com/mahbub3330/distributed_hash_generator/blob/main/client8.txt) - [pictures](https://github.com/mahbub3330/distributed_hash_generator/tree/main/screen-shot/output8)
 
 
 ## Note
