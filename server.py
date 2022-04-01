@@ -3,7 +3,7 @@ import threading
 import json
 import time
 IP = socket.gethostbyname(socket.gethostname())
-PORT = 5579
+PORT = 5569
 ADDR = (IP, PORT)
 SIZE = 1024
 FORMAT = "utf-8"
