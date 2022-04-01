@@ -9,7 +9,7 @@ A multi-client server that generate hash distributely regarding requested client
 *open another terminal and run command * **python3 client.py**<br/>
 
 As it supports multi-client so you can easily run another client by opening another terminal and run command * **python3 client.py**. <br/>
-For instance you would like to run 2 client. open 2 terminals and run command * **python3 client.py**. 
+For instance you would like to run 2 client. open 2 terminals and run command * **python3 client.py**. like [show-image](https://github.com/mahbub3330/distributed_hash_generator/blob/main/screen-shot/running-multiclient/run2client.png)
 
 
 ## Output
