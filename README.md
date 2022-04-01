@@ -8,7 +8,7 @@ A multi-client server that generate hash distributely regarding requested client
 *Run server file. open terminal and run * **python3 server.py**<br/>
 *open another terminal and run command * **python3 client.py**<br/>
 
-As it supports multi-client so you can easily run another clint bt opening another terminal and run command * **python3 client.py**. <br/>
+As it supports multi-client so you can easily run another client by opening another terminal and run command * **python3 client.py**. <br/>
 For instance you would like to run 2 client. open 2terminals and run command * **python3 client.py**. 
 
 
